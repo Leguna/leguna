@@ -1,6 +1,6 @@
-### Hi there, My name Ahmad Tuflihun 👋. I tried my best to learn something new about technology.
- 
- # I interested in game design making.
+### Hi there, My name Ahmad Tuflihun 👋. 
+### I tried my best to learn something new about technology.
+### I interested in game design making.
 
 <!--
 **Leguna/leguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
