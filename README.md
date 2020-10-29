@@ -5,7 +5,7 @@ I interested in game design. 👌
 - I suck playing factorio and satisfactory. 🤢
 
 ### By the way. Here is my certificate about code.
-- [Android Associate Certification](https://www.credential.net/d77f0148-91ff-4b82-a43f-2aceb1f43580)
+- [Android Associate Certification](https://www.credential.net/d77f0148-91ff-4b82-a43f-2aceb1f43580) 📱
 
 
 ### My Contact?
