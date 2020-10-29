@@ -9,8 +9,8 @@ I interested in game design. 👌
 
 
 ### My Contact?
-- LinkedIn: [Tuflihun](https://www.linkedin.com/in/tuflihun/)
-- Email: ahmadtuflihunxd@gmail.com
+- LinkedIn: [Tuflihun](https://www.linkedin.com/in/tuflihun/) 🏢
+- Email: ahmadtuflihunxd@gmail.com 📧
 
 
 <!--
