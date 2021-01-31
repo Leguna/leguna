@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leguna&count_private=true&show_icons=true&theme=dracula)](https://github.com/leguna/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leguna&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/leguna/)
 
 ### Hi there, My name Ahmad Tuflihun 👋. 
 I tried my best to learn something new about technology.
