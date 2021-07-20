@@ -6,7 +6,7 @@
 I tried my best to learn something new about technology.
 I interested in game design. 👌
 - Subnautica is the best adventure that i tried so far.
-- I suck playing factorio and satisfactory. 🤢
+- I bad playing factorio and satisfactory. 🤢
 
 ### By the way. Here is my certificate about code.
 - [Android Associate Certification](https://www.credential.net/d77f0148-91ff-4b82-a43f-2aceb1f43580) 📱
