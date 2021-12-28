@@ -10,7 +10,7 @@ I interested in Game Design and Mobile App Development. 👌
 - [Android Associate Certification](https://www.credential.net/d77f0148-91ff-4b82-a43f-2aceb1f43580) 📱
 
 ### Website Portofolio
-- [Tuflihun Site](tuflihun.site) | Portfolio Website React Template
+- [Tuflihun Site](https://tuflihun.site) | Portfolio Website React Template
 - [Berita Gabut](http://berita-gabut.tuflihun.site) | Web News Article using Laravel 8
 - [Kasnaran](https://kasnaran.tuflihun.site) | Restaurant Website using Node.js and Webpack (PWA)
 - [Bolepa](https://bolepa.tuflihun.site) | Daftar Pertandingan bola
