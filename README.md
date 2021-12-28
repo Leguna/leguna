@@ -9,14 +9,6 @@ I interested in Game Design and Mobile App Development. 👌
 ### Here is my certificate about code.
 - [Android Associate Certification](https://www.credential.net/d77f0148-91ff-4b82-a43f-2aceb1f43580) 📱
 
-### My Contact?
-- LinkedIn: [Tuflihun](https://www.linkedin.com/in/tuflihun/) 🏢
-- Email: ahmadtuflihunxd@gmail.com 📧
-
-### Fun Fact
-- Subnautica is the best adventure that i have tried so far.
-- I bad at playing factorio and satisfactory. 🤢
-
 ### Website Portofolio
 - [Tuflihun Site](tuflihun.site) | Portfolio Website React Template
 - [Berita Gabut](http://berita-gabut.tuflihun.site) | Web News Article using Laravel 8
@@ -26,6 +18,15 @@ I interested in Game Design and Mobile App Development. 👌
 
 ### PlayStore APP
 - [Fili - Film Favorite](https://play.google.com/store/apps/details?id=com.arksana.fili) | Android APP for film management
+
+### My Contact?
+- LinkedIn: [Tuflihun](https://www.linkedin.com/in/tuflihun/) 🏢
+- Email: ahmadtuflihunxd@gmail.com 📧
+
+### Fun Fact
+- Subnautica is the best adventure that i have tried so far.
+- I bad at playing factorio and satisfactory. 🤢
+
 <!--
 **Leguna/leguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
