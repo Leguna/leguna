@@ -9,6 +9,11 @@ I interested in Game Design and Mobile App Development. 👌
 ### Here is my certificate about code.
 - [Android Associate Certification](https://www.credential.net/d77f0148-91ff-4b82-a43f-2aceb1f43580) 📱
 
+### Game Portofolio
+- [Bembung](https://github.com/Leguna/Bembung) | Casual Games
+- [3D Pong](https://github.com/Leguna/Ahmad-Tuflihun-149251970101-194-3D-pong) | 3D Pong when learning on Agate Academy
+- [2D Pong](https://github.com/Leguna/Ahmad-Tuflihun-149251970101-194-Pong/) 2D Pong when learning on Agate Academy
+
 ### Website Portofolio
 - [Tuflihun Site](https://tuflihun.website) | Portfolio Website React Template
 - [Berita Gabut](http://berita-gabut.tuflihun.website) | Web News Article using Laravel 8
@@ -17,6 +22,9 @@ I interested in Game Design and Mobile App Development. 👌
 - [Misali](https://misali.tuflihun.website) | Daftar Masakan dan Resep
 
 ### PlayStore APP
+
+<img src="https://play.google.com/intl/id/badges/static/images/badges/en_badge_web_generic.png" width="300">
+
 - [Fili - Film Favorite](https://play.google.com/store/apps/details?id=com.arksana.fili) | Android APP for film management
 - [Bembung](https://play.google.com/store/apps/details?id=com.arksana.bembung) | Game about pushing ring to stick
 
