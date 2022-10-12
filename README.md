@@ -22,9 +22,9 @@ I interested in Game Design and Mobile App Development. 👌
 - [Bolepa](https://bolepa.tuflihun.website) | Daftar Pertandingan bola
 - [Misali](https://misali.tuflihun.website) | Daftar Masakan dan Resep
 
-### PlayStore APP
+### Play Store App
 
-<img src="https://play.google.com/intl/id/badges/static/images/badges/en_badge_web_generic.png" width="300">
+[<img alt="alt_text" width="300" src="https://user-images.githubusercontent.com/12116766/195317526-bfaf2f3e-2968-43cf-8df8-6ebdc86df4f0.png" />](https://play.google.com/store/apps/developer?id=Arksana+Studio)
 
 - [Fili - Film Favorite](https://play.google.com/store/apps/details?id=com.arksana.fili) | Android APP for film management
 - [Bembung](https://play.google.com/store/apps/details?id=com.arksana.bembung) | Game about pushing ring to stick
