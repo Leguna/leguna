@@ -1,6 +1,13 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leguna&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/leguna/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leguna&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center" width="100%">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api?username=leguna&hide=stars&count_private=true&show_icons=true&theme=dracula"> 
+</p>
+
+<p align="center" width="100%">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leguna&layout=compact&theme=dracula"> 
+</p>
+
+
 
 ### Hi there, My name is Ahmad Tuflihun 👋. 
 I tried my best to learn something new about technology.
