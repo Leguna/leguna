@@ -1,10 +1,10 @@
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=leguna&hide=stars&count_private=true&show_icons=true&theme=dracula"> 
+    <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leguna&hide=stars&count_private=true&show_icons=true&theme=dracula"> 
 </p>
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leguna&layout=compact&theme=dracula"> 
+    <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leguna&layout=compact&theme=dracula"> 
 </p>
 
 
