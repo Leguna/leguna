@@ -1,11 +1,16 @@
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leguna&hide=stars&count_private=true&show_icons=true&theme=dracula"> 
+    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leguna&hide=stars&count_private=true&show_icons=true&theme=dracula"> 
+    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leguna&layout=compact&theme=dracula"> 
 </p>
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leguna&layout=compact&theme=dracula"> 
+<a href="https://github.com/Leguna/github-stats">
+<img src="https://github.com/Leguna/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Leguna/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 </p>
+
 
 
 
