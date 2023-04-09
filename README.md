@@ -29,9 +29,8 @@ I interested in Game Design and Mobile App Development. 👌
 
 ### Website Portofolio
 - [Tuflihun Site](https://tuflihun.website) | Portfolio Website React Template
-- [Kasnaran](https://kasnaran.tuflihun.website) | Restaurant Website using Node.js and Webpack (PWA)
-- [Bolepa](https://bolepa.tuflihun.website) | Daftar Pertandingan bola
-- [Misali](https://misali.tuflihun.website) | Daftar Masakan dan Resep
+- [Kasnaran](http://leguna.github.io/Kasnaran) | Restaurant Website using Node.js and Webpack (PWA)
+- [Misali](http://leguna.github.io/Misali | Daftar Masakan dan Resep
 
 ### Play Store App
 
