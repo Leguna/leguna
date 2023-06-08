@@ -28,7 +28,7 @@ I interested in Game Design and Mobile App Development. 👌
 - [2D Pong](https://github.com/Leguna/Ahmad-Tuflihun-149251970101-194-Pong/) | 2D Pong
 
 ### Website Portofolio
-- [Tuflihun Site](https://tuflihun.website) | Portfolio Website React Template
+- [Tuflihun Site](https://leguna.github.io) | Portfolio Website React Template
 - [Kasnaran](http://leguna.github.io/Kasnaran) | Restaurant Website using Node.js and Webpack (PWA)
 - [Misali](http://leguna.github.io/Misali) | Daftar Masakan dan Resep
 
