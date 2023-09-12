@@ -20,6 +20,7 @@ I interested in Game Design and Mobile App Development. 👌
 
 ### Here is my certificate about code.
 - [Android Associate Certification](https://www.credential.net/d77f0148-91ff-4b82-a43f-2aceb1f43580) 📱
+- [Unity Programmer Associate Certification](https://www.credly.com/badges/07e28d7c-d4aa-4678-a6ed-8af282901edd) 📦
 
 ### Game Portofolio
 - [Bembung](https://github.com/Leguna/Bembung) | Casual Games
