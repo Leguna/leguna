@@ -1,17 +1,15 @@
 
-<p align="center" width="100%">
+<p align="center" height="100%">
     <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leguna&hide=stars&count_private=true&show_icons=true&theme=dracula"> 
     <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leguna&layout=compact&theme=dracula"> 
 </p>
 
-<p align="center" width="100%">
+<p align="center" height="100%">
 <!-- <a href="https://github.com/Leguna/github-stats"> -->
 <!-- <img src="https://github.com/Leguna/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" /> -->
 <!-- <img src="https://github.com/Leguna/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" /> -->
-<!-- </a> -->
+</a>
 </p>
-
-
 
 
 ### Hi there, My name is Ahmad Tuflihun 👋. 
@@ -19,26 +17,24 @@ I tried my best to learn something new about technology.
 I interested in Game Design and Mobile App Development. 👌
 
 ### Here is my certificate about code.
-- [Android Associate Certification](https://www.credential.net/d77f0148-91ff-4b82-a43f-2aceb1f43580) 📱
-- [Unity Programmer Associate Certification](https://www.credly.com/badges/07e28d7c-d4aa-4678-a6ed-8af282901edd) 📦
+[<img alt="alt_text" width="250" src="https://github.com/Leguna/leguna/assets/12116766/858fcb12-34d4-4919-9cfd-2b10d3cd2101" />](https://www.credly.com/badges/07e28d7c-d4aa-4678-a6ed-8af282901edd)
 
-### Game Portofolio
-- [Bembung](https://github.com/Leguna/Bembung) | Casual Games
-- [Match Picture](https://github.com/Leguna/MatchPictureSimulasi) | Casual Games
-- [3D Pong](https://github.com/Leguna/Ahmad-Tuflihun-149251970101-194-3D-pong) | 3D Pong
-- [2D Pong](https://github.com/Leguna/Ahmad-Tuflihun-149251970101-194-Pong/) | 2D Pong
+### Game Portfolio
+[<img alt="alt_text" width="128" src="https://github.com/Leguna/leguna/assets/12116766/8f32a8a4-7ca3-4f5c-869b-fb8223f14242" />](https://github.com/Leguna/Bembung)
+[<img alt="alt_text" width="128" src="https://github.com/Leguna/leguna/assets/12116766/83d4b9ae-2f49-49f6-b904-b84e819100f1" />](https://github.com/Leguna/PongKuy)
 
 ### Website Portofolio
 - [Tuflihun Site](https://leguna.github.io) | Portfolio Website React Template
-- [Kasnaran](http://leguna.github.io/Kasnaran) | Restaurant Website using Node.js and Webpack (PWA)
-- [Misali](http://leguna.github.io/Misali) | Daftar Masakan dan Resep
+- [Kasnaran](https://leguna.github.io/Kasnaran) | Restaurant Website using Node.js and Webpack (PWA)
+- [Misali](https://leguna.github.io/Misali) | Daftar Masakan dan Resep
 
 ### Play Store App
 
 [<img alt="alt_text" width="300" src="https://user-images.githubusercontent.com/12116766/195317526-bfaf2f3e-2968-43cf-8df8-6ebdc86df4f0.png" />](https://play.google.com/store/apps/developer?id=Arksana+Studio)
 
-- [Fili - Film Favorite](https://play.google.com/store/apps/details?id=com.arksana.fili) | Android APP for film management
-- [Bembung](https://play.google.com/store/apps/details?id=com.arksana.bembung) | Game about pushing ring to stick
+<!-- - [Fili - Film Favorite](https://play.google.com/store/apps/details?id=com.arksana.fili) | Android APP for film management -->
+<!-- - [Pong Kuy](https://play.google.com/store/apps/details?id=com.arksana.pongkuy) | Pong Game Multiplayer Online/Offline -->
+<!-- - [Bembung](https://play.google.com/store/apps/details?id=com.arksana.bembung) | Game about pushing ring to stick -->
 
 ### My Contact?
 - LinkedIn: [Tuflihun](https://www.linkedin.com/in/tuflihun/) 🏢
@@ -46,7 +42,7 @@ I interested in Game Design and Mobile App Development. 👌
 
 ### Fun Fact
 - Subnautica is the best adventure that i have tried so far.
-- I bad at playing factorio and satisfactory. 🤢
+- I am bad at playing factorio and satisfactory. 🤢
 
 <!--
 **Leguna/leguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
