@@ -36,6 +36,10 @@ I interested in Game Design and Mobile App Development. 👌
 <!-- - [Pong Kuy](https://play.google.com/store/apps/details?id=com.arksana.pongkuy) | Pong Game Multiplayer Online/Offline -->
 <!-- - [Bembung](https://play.google.com/store/apps/details?id=com.arksana.bembung) | Game about pushing ring to stick -->
 
+### TTD Game Portofolio
+- [Tank U! Game](https://invincible-penalty-c21.notion.site/TDD-Tank-U-Game-3d4bfb1ca0944c858ea7f492f5f03e7f?pvs=4)
+- [Blok Game](https://invincible-penalty-c21.notion.site/TDD-Block-Game-444aabbb911b4f4d9a2ca66b701983ed?pvs=4)
+
 ### My Contact?
 - LinkedIn: [Tuflihun](https://www.linkedin.com/in/tuflihun/) 🏢
 - Email: ahmadtuflihunxd@gmail.com 📧
