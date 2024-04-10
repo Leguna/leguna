@@ -17,11 +17,12 @@ I tried my best to learn something new about technology.
 I am interested in Game Design and Mobile App Development. 👌
 
 ### Here is my certificate about code.
-[<img alt="alt_text" width="250" src="https://github.com/Leguna/leguna/assets/12116766/858fcb12-34d4-4919-9cfd-2b10d3cd2101" />](https://www.credly.com/badges/07e28d7c-d4aa-4678-a6ed-8af282901edd)
+[<img alt="alt_text" width="120" src="https://github.com/Leguna/leguna/assets/12116766/858fcb12-34d4-4919-9cfd-2b10d3cd2101" />](https://www.credly.com/badges/07e28d7c-d4aa-4678-a6ed-8af282901edd)
+[<img alt="alt_text" width="120" src="https://templates.images.credential.net/16570305677153544077318830934231.png" />](https://www.linkedin.com/in/tuflihun/details/certifications/)
 
 ### Game Portfolio
-[<img alt="alt_text" width="128" src="https://github.com/Leguna/leguna/assets/12116766/8f32a8a4-7ca3-4f5c-869b-fb8223f14242" />](https://github.com/Leguna/Bembung)
-[<img alt="alt_text" width="128" src="https://github.com/Leguna/leguna/assets/12116766/83d4b9ae-2f49-49f6-b904-b84e819100f1" />](https://github.com/Leguna/PongKuy)
+[<img alt="alt_text" width="64" src="https://github.com/Leguna/leguna/assets/12116766/8f32a8a4-7ca3-4f5c-869b-fb8223f14242" />](https://github.com/Leguna/Bembung)
+[<img alt="alt_text" width="64" src="https://github.com/Leguna/leguna/assets/12116766/83d4b9ae-2f49-49f6-b904-b84e819100f1" />](https://github.com/Leguna/PongKuy)
 
 ### Website Portofolio
 - [Tuflihun Site](https://leguna.github.io) | Portfolio Website React Template
