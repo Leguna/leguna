@@ -26,7 +26,7 @@ I am interested in Game Design and Mobile App Development. 👌
 [<img alt="alt_text" width="64" src="https://github.com/Leguna/leguna/assets/12116766/83d4b9ae-2f49-49f6-b904-b84e819100f1" />](https://github.com/Leguna/PongKuy)
 -->
 ### Website Portofolio
-- [Tuflihun Site](https://leguna.github.io) | Portfolio Website React Template
+- [Tuflihun Website](https://leguna.github.io) | Portfolio Website React Template
 - [Kasnaran](https://leguna.github.io/Kasnaran) | Restaurant Website using Node.js and Webpack (PWA)
 - [Misali](https://leguna.github.io/Misali) | Daftar Masakan dan Resep
 
